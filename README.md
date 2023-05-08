@@ -13,3 +13,5 @@ If You Are Using Any OS That Metasploit Is Not Installed By Default , Please Fir
 This Is For LAZY HACKERS ,
 
 Happy Lazy Hacking !
+
+This Script Published Under MIT License

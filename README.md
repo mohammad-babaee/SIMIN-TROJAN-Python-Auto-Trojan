@@ -14,4 +14,4 @@ This Is For LAZY HACKERS ,
 
 Happy Lazy Hacking !
 
-$This Script Published Under MIT License
+This Script Published Under MIT License

@@ -7,6 +7,10 @@ If The Answer is : Yes , This Script Is For You !
 
 # Dependencies : This Script Need KALI Linux & Metasploit Framework 
 
+```console
+$ wget http://downloads.metasploit.com/data/releases/metasploit-latest-linux-x64-installer.run
+```
+
 If You Are Using Any OS That Metasploit Is Not Installed By Default , Please First Go & Install Metasploit , Then Run This Script ...
 
 
